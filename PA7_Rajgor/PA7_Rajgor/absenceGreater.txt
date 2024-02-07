@@ -1,0 +1,2 @@
+Students with absences greater than 1 are: 
+"Smith,John"
